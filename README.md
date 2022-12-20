@@ -1,2 +1,2 @@
 # TheOdinProject
-Non-Responsive recipe page from the odin project assignment
+Non-Responsive recipe page 
