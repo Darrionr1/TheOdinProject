@@ -1,2 +1,2 @@
 # TheOdinProject
-Assignments from the Odin Project. Follow me on my journey to being a frontend developer.
+Non-Responsive recipe page from the odin project assignment
