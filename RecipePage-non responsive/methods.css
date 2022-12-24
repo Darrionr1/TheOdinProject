@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,200&family=Roboto:wght@300;400;500;700&display=swap");
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "Montserrat", sans-serif;
+	background-color: whitesmoke;
+	font-size: 1.1em;
+}
+
+.vertical {
+	border-left: 1px solid black;
+	height: 1400px;
+	position: absolute;
+	left: 50%;
+}
+
+.full-title {
+	margin-bottom: 1.2em;
+	letter-spacing: 4px;
+}
+
+.title {
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-size: 1.1em;
+}
+
+.serve-message {
+	text-transform: uppercase;
+	font-size: 1.2em;
+	margin-bottom: 1em;
+	font-weight: 200;
+}
+.text {
+	font-size: 0.8em;
+}
+.container {
+	width: 42%;
+	margin: 3em 0 0 4em;
+}
+
+.content-pic {
+	width: 35%;
+	position: fixed;
+	margin-left: 57%;
+	margin-top: 5%;
+}
+
+ul {
+	margin: 0;
+	padding-left: 0.1em;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));
+	list-style-type: none;
+	font-size: 1.1em;
+	margin-bottom: 1em;
+	margin-left: 2em;
+	position: relative;
+}
+
+li {
+	margin-left: -2.2em;
+	line-height: 2.2em;
+	font-size: 0.8em;
+}
+
+.top-pic {
+	width: 35%;
+	position: fixed;
+	margin-top: 3%;
+	margin-left: 57%;
+}
+
+.bottom-pic {
+	width: 35%;
+	position: fixed;
+	margin-top: 55%;
+	margin-left: 57%;
+}
